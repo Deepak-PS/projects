@@ -1,0 +1,58 @@
+[
+   {
+        "id": "a1",
+        "name": "Automated Shift Scheduler",
+        "description": "This project assigns shifts to all the employees automatically based on their desired earnings. The goal is to make each employee reach his/her desired earnings during the specified time period.",
+        "lang": "Java",
+        "url": "https://github.com/Deepak-PS/shiftscheduler",
+        "type": "hobby"
+    },
+    {
+        "id": "a2",
+        "name": "XMLCalculator",
+        "description": "This application takes two files: the first file is a list of cities with their populations and areas, and the second file is a list of operations to be performed on the cities list. Both the files are XMLs. The operations list has a filter and operation type as attributes, based on these the cities are filtered and the corresponding operations are performed. The operation results are stored in another XML file.",
+        "lang": "Java",
+        "url": "https://github.com/Deepak-PS/xmlcalculator",
+        "type": "hobby"
+    },
+    {
+        "id": "a3",
+        "name": "Lease Calculator",
+        "description": "This application finds the montly rate for the provided interest and duration.",
+        "lang": "JavaScript",
+        "url": "https://github.com/Deepak-PS/react-lease-calculator",
+        "type": "hobby"
+    },
+    {
+        "id": "a4",
+        "name": "Demolition of a building by an aeroplane crash",
+        "description": "This project was done using C with OpenGL. This project demonstrates an aeroplane hitting a building.",
+        "lang": "C",
+        "url": "https://github.com/KarthikPradhan/AeroplaneCrash",
+        "type": "academic"
+    },
+    {
+        "id": "a5",
+        "name": "Content Based Image Retrieval",
+        "description": "Content-based Image Retrieval (CBIR) as an example of Content-based Retrieval (CBR).",
+        "lang": "Java",
+        "url": "https://github.com/KarthikPradhan/ContentBasedImageRetrieval",
+        "type": "academic"
+    },
+    {
+        "id": "a6",
+        "name": "Survey-on-relevance-between-location-information-in-twitter-description-and-tagged-location",
+        "description": "A project that was developed to find the relevence between the location information in the description of the tweets and the tagged location and classify them as Perfect Match, Partial Match, Regional Match and No Match.",
+        "lang": "Python",
+        "url": "https://github.com/Deepak-PS/Survey-on-relevance-between-location-information-in-twitter-description-and-tagged-location",
+        "type": "academic"
+    },
+    {
+        "id": "a7",
+        "name": "Multilingual and Crosslingual Semantic Word Similarity",
+        "description": "In semantic textual similarity (STS), systems rate the degree of semantic equivalence between two text snippets.",
+        "lang": "Python",
+        "url": "https://github.com/KarthikPradhan/MultilingualAndCrosslingualSemanticSimilarity",
+        "type": "academic"
+    }
+]
