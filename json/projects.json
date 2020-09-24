@@ -34,7 +34,7 @@
     {
         "id": "a5",
         "name": "Content Based Image Retrieval",
-        "description": "Content-based Image Retrieval (CBIR) as an example of Content-based Retrieval (CBR).",
+        "description": "A web application which retrieves the images similar to the uploaded image based on texture and color characteristics.",
         "lang": "Java",
         "url": "https://github.com/KarthikPradhan/ContentBasedImageRetrieval",
         "type": "academic"
