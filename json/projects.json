@@ -42,7 +42,7 @@
     {
         "id": "a6",
         "name": "Content Based Image Retrieval",
-        "description": "A web application which retrieves the images similar to the uploaded image based on texture and color characteristics.",
+        "description": "A web application which retrieves the images similar to the uploaded image based on texture and color characteristics. Technologies: Java 7, Servlets, JSP",
         "lang": "Java",
         "url": "https://github.com/KarthikPradhan/ContentBasedImageRetrieval",
         "type": "academic"
