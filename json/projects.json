@@ -17,6 +17,14 @@
     },
     {
         "id": "a3",
+        "name": "WY Space Solution",
+        "description": "A java application to find the 30 minute period where the total downlink of all the satellite passes will be at its maximum. It also finds whether the ground station has bandwidth to support it based on the capacity of the ground station.",
+        "lang": "Java",
+        "url": "https://github.com/Deepak-PS/WYSpace",
+        "type": "hobby"
+    },
+    {
+        "id": "a4",
         "name": "Lease Calculator",
         "description": "This application finds the montly rate for the provided interest and duration.",
         "lang": "JavaScript",
@@ -24,7 +32,7 @@
         "type": "hobby"
     },
     {
-        "id": "a4",
+        "id": "a5",
         "name": "Demolition of a building by an aeroplane crash",
         "description": "This project was done using C++ with OpenGL. This project demonstrates an aeroplane hitting a building.",
         "lang": "CPP",
@@ -32,7 +40,7 @@
         "type": "academic"
     },
     {
-        "id": "a5",
+        "id": "a6",
         "name": "Content Based Image Retrieval",
         "description": "A web application which retrieves the images similar to the uploaded image based on texture and color characteristics.",
         "lang": "Java",
@@ -40,7 +48,7 @@
         "type": "academic"
     },
     {
-        "id": "a6",
+        "id": "a7",
         "name": "Survey-on-relevance-between-location-information-in-twitter-description-and-tagged-location",
         "description": "A project that was developed to find the relevence between the location information in the description of the tweets and the tagged location and classify them as Perfect Match, Partial Match, Regional Match and No Match.",
         "lang": "Python",
@@ -48,7 +56,7 @@
         "type": "academic"
     },
     {
-        "id": "a7",
+        "id": "a8",
         "name": "Multilingual and Crosslingual Semantic Word Similarity",
         "description": "In semantic textual similarity (STS), systems rate the degree of semantic equivalence between two text snippets.",
         "lang": "Python",
