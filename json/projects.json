@@ -1,6 +1,14 @@
 [
    {
         "id": "a1",
+        "name": "Smart Classroom",
+        "description": "Technologies: Spring Boot, Java Message Service (JMS) using Apache ActiveMQ, JPA, Spring Security, Spring MVC, MySQL, Html5, JavaScript. \n This application demonstrates the sharing of Notes consisting of a title and body from the teacher (producer) to the student(s) (consumer). Each side will have the copy of the notes stored in the database.",
+        "lang": "Java",
+        "url": "https://github.com/Deepak-PS/classroom",
+        "type": "hobby"
+    },
+   {
+        "id": "a2",
         "name": "Automated Shift Scheduler",
         "description": "This project assigns shifts to all the employees automatically based on their desired earnings. The goal is to make each employee reach his/her desired earnings during the specified time period.",
         "lang": "Java",
@@ -8,7 +16,7 @@
         "type": "hobby"
     },
     {
-        "id": "a2",
+        "id": "a3",
         "name": "XMLCalculator",
         "description": "This application takes two files: the first file is a list of cities with their populations and areas, and the second file is a list of operations to be performed on the cities list. Both the files are XMLs. The operations list has a filter and operation type as attributes, based on these the cities are filtered and the corresponding operations are performed. The operation results are stored in another XML file.",
         "lang": "Java",
@@ -16,7 +24,7 @@
         "type": "hobby"
     },
     {
-        "id": "a3",
+        "id": "a4",
         "name": "WY Space Solution",
         "description": "A java application to find the 30 minute period where the total downlink of all the satellite passes will be at its maximum. It also finds whether the ground station has bandwidth to support it based on the capacity of the ground station.",
         "lang": "Java",
@@ -24,7 +32,7 @@
         "type": "hobby"
     },
     {
-        "id": "a4",
+        "id": "a5",
         "name": "Lease Calculator",
         "description": "This application finds the montly rate for the provided interest and duration.",
         "lang": "JavaScript",
@@ -32,7 +40,7 @@
         "type": "hobby"
     },
     {
-        "id": "a5",
+        "id": "a6",
         "name": "Demolition of a building by an aeroplane crash",
         "description": "This project was done using C++ with OpenGL. This project demonstrates an aeroplane hitting a building.",
         "lang": "CPP",
@@ -40,7 +48,7 @@
         "type": "academic"
     },
     {
-        "id": "a6",
+        "id": "a7",
         "name": "Content Based Image Retrieval",
         "description": "A web application which retrieves the images similar to the uploaded image based on texture and color characteristics. Technologies: Java 7, Servlets, JSP",
         "lang": "Java",
@@ -48,7 +56,7 @@
         "type": "academic"
     },
     {
-        "id": "a7",
+        "id": "a8",
         "name": "Survey-on-relevance-between-location-information-in-twitter-description-and-tagged-location",
         "description": "A project that was developed to find the relevence between the location information in the description of the tweets and the tagged location and classify them as Perfect Match, Partial Match, Regional Match and No Match.",
         "lang": "Python",
@@ -56,7 +64,7 @@
         "type": "academic"
     },
     {
-        "id": "a8",
+        "id": "a9",
         "name": "Multilingual and Crosslingual Semantic Word Similarity",
         "description": "In semantic textual similarity (STS), systems rate the degree of semantic equivalence between two text snippets.",
         "lang": "Python",
