@@ -2,7 +2,7 @@
    {
         "id": "a1",
         "name": "Smart Classroom",
-        "description": "Technologies: Spring Boot, Java Message Service (JMS) using Apache ActiveMQ, JPA, Spring Security, Spring MVC, MySQL, Html5, JavaScript. \n This application demonstrates the sharing of Notes consisting of a title and body from the teacher (producer) to the student(s) (consumer). Each side will have the copy of the notes stored in the database.",
+        "description": "Technologies: Spring Boot, Java Message Service (JMS) using Apache ActiveMQ, JPA, Spring Security, Spring MVC, MySQL, Html5, JavaScript. This application demonstrates the sharing of Notes consisting of a title and body from the teacher (producer) to the student(s) (consumer). Each side will have the copy of the notes stored in the database.",
         "lang": "Java",
         "url": "https://github.com/Deepak-PS/classroom",
         "type": "hobby"
