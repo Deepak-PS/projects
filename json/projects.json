@@ -70,5 +70,13 @@
         "lang": "Python",
         "url": "https://github.com/KarthikPradhan/MultilingualAndCrosslingualSemanticSimilarity",
         "type": "academic"
+    },
+   {
+        "id": "b1",
+        "name": "AsFault HJE",
+        "description": "Automatically Generating Test Scenarios that Lead to the Discomfort of the Passenger",
+        "lang": "Python",
+        "url": "https://github.com/Deepak-PS/asfault_hje",
+        "type": "academic"
     }
 ]
